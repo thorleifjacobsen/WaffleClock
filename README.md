@@ -1,5 +1,9 @@
 # Kleine Karer Vaffel Klokke
 
+![Clock Image](image_front.png)
+
+![Inside image](image_inside.png)
+
 ## Introduction
 The KKVK is a fun, custom-made clock developed for a friend. It integrates both humor and functionality to keep track of time and number of waffles made. The clock features a countdown timer, waffle count, and customizable melodies to make the waffle-making experience more enjoyable.
 
